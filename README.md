@@ -96,7 +96,6 @@ ghumakkad/
 
 ## 🔑 API Keys Required
 
-- Google API Key (for YouTube integration)
 - Google Gemini API Key (for AI assistant)
 - Snowflake credentials (for database)
 
