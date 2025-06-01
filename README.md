@@ -111,9 +111,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - YourStory x Snowflake Hackathon
+- Team Squirtle
 - Data sources: Government tourism portals
 - Open-source community
 
 ## 📧 Contact
 
-For any queries or suggestions, please reach out to [your-email@example.com] 
+For any queries or suggestions, please reach out to [kant19krishna@gmail.com] 
