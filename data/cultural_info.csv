@@ -1,0 +1,82 @@
+state_name,category,name,description,month
+Himachal Pradesh,art_form,Chamba Rumal,Traditional embroidered handkerchief,
+Himachal Pradesh,art_form,Kangra Paintings,Miniature paintings depicting Rajput lifestyle,
+Himachal Pradesh,art_form,Wood Carving,Intricate designs on local deodar wood,
+Himachal Pradesh,festival,Kullu Dussehra,Week-long festival celebrating victory of good over evil,October
+Himachal Pradesh,festival,Losar Festival,Tibetan New Year celebrations,February
+Himachal Pradesh,festival,Mandi Shivratri,Week-long international fair,March
+Himachal Pradesh,cuisine,Dham,Traditional feast served on leaf plates,
+Himachal Pradesh,cuisine,Siddu,Stuffed bread made from wheat flour,
+Himachal Pradesh,cuisine,Madra,Chickpeas cooked in yogurt gravy,
+Goa,art_form,Goan Folk Dance,Traditional dance forms including Dekhnni and Fugdi,
+Goa,art_form,Goan Pottery,Traditional terracotta crafts and pottery making,
+Goa,art_form,Goan Painting,Blend of Indian and Portuguese artistic styles,
+Goa,festival,Carnival,Vibrant street festival with parades and music,February
+Goa,festival,Sao Joao,Monsoon festival with well jumping tradition,June
+Goa,festival,Feast of St. Francis Xavier,Religious festival at Basilica of Bom Jesus,December
+Goa,cuisine,Fish Curry Rice,Traditional Goan fish curry with local rice,
+Goa,cuisine,Vindaloo,Spicy curry with Portuguese influence,
+Goa,cuisine,Bebinca,Traditional layered Goan dessert,
+Rajasthan,art_form,Kathputli,Traditional puppet dance,
+Rajasthan,art_form,Phad Painting,Scroll paintings depicting folk tales,
+Rajasthan,art_form,Ghoomar,Traditional folk dance,
+Rajasthan,festival,Desert Festival,Celebration of desert culture in Jaisalmer,February
+Rajasthan,festival,Pushkar Fair,Famous camel and livestock fair,November
+Rajasthan,festival,Teej,Festival celebrating the monsoon,August
+Rajasthan,cuisine,Dal Baati Churma,Traditional Rajasthani dish,
+Rajasthan,cuisine,Laal Maas,Spicy meat curry,
+Rajasthan,cuisine,Ker Sangri,Desert beans and berries dish,
+Kerala,art_form,Kathakali,Classical dance-drama with elaborate costumes,
+Kerala,art_form,Mohiniyattam,Classical dance form of Kerala,
+Kerala,art_form,Kalaripayattu,Ancient martial art form,
+Kerala,festival,Onam,Harvest festival with boat races,August-September
+Kerala,festival,Thrissur Pooram,Famous temple festival,April-May
+Kerala,festival,Vishu,Malayalam New Year,April
+Kerala,cuisine,Appam with Stew,Lacy rice hoppers with coconut stew,
+Kerala,cuisine,Kerala Fish Curry,Spicy fish curry with coconut,
+Kerala,cuisine,Puttu and Kadala,Steamed rice cake with black chickpeas,
+Ladakh,art_form,Thangka Painting,Buddhist religious scroll paintings,
+Ladakh,art_form,Ladakhi Music,Traditional music with surna and daman,
+Ladakh,art_form,Wood Carving,Intricate wooden architectural details,
+Ladakh,festival,Hemis Festival,Largest monastic festival,June-July
+Ladakh,festival,Losar,Ladakhi New Year,February
+Ladakh,festival,Ladakh Festival,Cultural showcase,September
+Ladakh,cuisine,Thukpa,Noodle soup with vegetables,
+Ladakh,cuisine,Butter Tea,Traditional salty tea with yak butter,
+Ladakh,cuisine,Skyu,Traditional pasta dish,
+Sikkim,art_form,Thangka Painting,Buddhist scroll painting,
+Sikkim,art_form,Carpet Weaving,Traditional Sikkimese patterns,
+Sikkim,art_form,Wood Carving,Religious and decorative items,
+Sikkim,festival,Losar,Tibetan New Year,February-March
+Sikkim,festival,Saga Dawa,Buddhist festival,May-June
+Sikkim,festival,Pang Lhabsol,Mountain worshipping festival,August
+Sikkim,cuisine,Momos,Traditional dumplings,
+Sikkim,cuisine,Thukpa,Noodle soup,
+Sikkim,cuisine,Gundruk,Fermented leafy vegetable,
+Jammu and Kashmir,art_form,Pashmina Shawls,Exquisite handwoven shawls from Kashmir,
+Jammu and Kashmir,art_form,Papier Mache,Decorative art on paper pulp,
+Jammu and Kashmir,art_form,Kashmiri Carpets,Traditional hand-knotted carpets,
+Jammu and Kashmir,festival,Tulip Festival,Celebration of spring tulip blooms,April
+Jammu and Kashmir,festival,Baisakhi,Harvest festival celebration,April
+Jammu and Kashmir,festival,Eid-ul-Fitr,Religious festival with special cuisine,Variable
+Jammu and Kashmir,cuisine,Wazwan,Traditional multi-course Kashmiri feast,
+Jammu and Kashmir,cuisine,Rogan Josh,Aromatic lamb curry,
+Jammu and Kashmir,cuisine,Kahwa,Traditional green tea with spices,
+Meghalaya,art_form,Nongkrem Dance,Traditional Khasi harvest dance,
+Meghalaya,art_form,Bamboo Craft,Intricate bamboo artifacts,
+Meghalaya,art_form,Garo Textiles,Traditional handwoven fabrics,
+Meghalaya,festival,Wangala,Harvest festival of the Garos,November
+Meghalaya,festival,Shad Suk Mynsiem,Khasi spring dance festival,April
+Meghalaya,festival,Behdienkhlam,Festival for good harvest,July
+Meghalaya,cuisine,Jadoh,Traditional rice and meat dish,
+Meghalaya,cuisine,Tungrymbai,Fermented soybean dish,
+Meghalaya,cuisine,Nakham Bitchi,Dried fish soup,
+Gujarat,art_form,Garba,Traditional folk dance performed during Navratri,
+Gujarat,art_form,Bandhani,Traditional tie-dye textile art,
+Gujarat,art_form,Patola,Double ikat woven sarees from Patan,
+Gujarat,festival,Rann Utsav,Desert festival celebrating local culture,November-February
+Gujarat,festival,Navratri,Nine nights of dance and celebration,September-October
+Gujarat,festival,Uttarayan,International kite festival,January
+Gujarat,cuisine,Dhokla,Steamed fermented rice and chickpea snack,
+Gujarat,cuisine,Thepla,Flatbread made with fenugreek leaves,
+Gujarat,cuisine,Undhiyu,Mixed vegetable curry traditional to Surat, 

@@ -1,0 +1,37 @@
+state_name,category,name,description,attractions,best_time
+Himachal Pradesh,popular,Shimla,Former summer capital of British India,"The Ridge|Mall Road|Jakhu Temple",March to June
+Himachal Pradesh,popular,Manali,Popular hill station known for adventure sports,"Rohtang Pass|Hadimba Temple|Old Manali",October to June
+Himachal Pradesh,hidden_gem,Chitkul,Last inhabited village near Indo-Tibet border,"Chitkul Temple|Mountain Views|Local Culture",May to October
+Himachal Pradesh,hidden_gem,Tirthan Valley,Offbeat destination for nature lovers,"Trout Fishing|Great Himalayan National Park|Local Homestays",March to June
+Goa,popular,Calangute-Baga,Most famous beach stretch in North Goa,"Calangute Beach|Baga Night Market|Water Sports",November to February
+Goa,popular,Old Goa,UNESCO World Heritage Site,"Basilica of Bom Jesus|Se Cathedral|Church of St. Francis of Assisi",October to March
+Goa,hidden_gem,Divar Island,Peaceful river island with Portuguese heritage,"Our Lady of Compassion Church|Island Houses|Rural Life",November to February
+Goa,hidden_gem,Cola Beach,Secluded beach with freshwater lagoon,"Hidden Lagoon|Pristine Beach|Dolphin Watching",October to March
+Rajasthan,popular,Jaipur,The Pink City known for its architectural beauty,"Hawa Mahal|Amber Fort|City Palace",October to March
+Rajasthan,popular,Udaipur,City of Lakes and Palaces,"Lake Pichola|City Palace|Fateh Sagar Lake",September to March
+Rajasthan,hidden_gem,Bundi,Ancient town known for step wells and palaces,"Taragarh Fort|Raniji ki Baori|Chitrashala",October to March
+Rajasthan,hidden_gem,Osian,Ancient temple town in Thar Desert,"Sachiya Mata Temple|Desert Camping|Temple Architecture",November to February
+Kerala,popular,Alleppey,Venice of the East famous for houseboats,"Backwaters|Alappuzha Beach|Houseboats",November to February
+Kerala,popular,Munnar,Hill station known for tea plantations,"Tea Gardens|Eravikulam National Park|Top Station",September to March
+Kerala,hidden_gem,Wayanad,Green paradise with wildlife sanctuaries,"Edakkal Caves|Banasura Dam|Chembra Peak",October to May
+Kerala,hidden_gem,Vagamon,Untouched hill station with meadows,"Pine Forest|Meadows|Paragliding",September to May
+Ladakh,popular,Pangong Lake,High altitude salt water lake,"Blue Waters|Sunrise Views|Camping",May to September
+Ladakh,popular,Nubra Valley,Desert valley with sand dunes,"Diskit Monastery|Camel Safari|Hot Springs",June to September
+Ladakh,hidden_gem,Hanle,Dark sky sanctuary,"Observatory|Star Gazing|Ancient Monastery",May to October
+Ladakh,hidden_gem,Sham Valley,Cultural trek route,"Ancient Villages|Apricot Orchards|Monasteries",June to September
+Sikkim,popular,Nathula Pass,Indo-China border pass,"Mountain Views|Snow Experience|Tsomgo Lake",May to October
+Sikkim,popular,Pelling,View point for Kanchenjunga,"Pemayangtse Monastery|Kanchenjunga Falls|Ruins of Rabdentse",September to May
+Sikkim,hidden_gem,Dzongu,Lepcha reserve,"Traditional Villages|Organic Farms|River Teesta",March to May
+Sikkim,hidden_gem,Yumthang Valley,Valley of Flowers,"Hot Springs|Flower Meadows|River Valley",March to June
+Jammu and Kashmir,popular,Gulmarg,Premier ski resort of India,"Skiing Slopes|Gondola Ride|Alpather Lake",December to March
+Jammu and Kashmir,popular,Dal Lake,Heart of Srinagar,"Shikara Rides|Floating Gardens|House Boats",April to October
+Jammu and Kashmir,hidden_gem,Doodhpathri,Valley of Milk,"Green Meadows|Shepherd Villages|River Streams",April to September
+Jammu and Kashmir,hidden_gem,Gurez Valley,Remote Himalayan Valley,"Ancient Silk Route|Habba Khatoon Peak|Kishanganga River",June to September
+Meghalaya,popular,Cherrapunji,One of the wettest places on Earth,"Living Root Bridges|Nohkalikai Falls|Mawsmai Cave",September to May
+Meghalaya,popular,Mawlynnong,Asia's Cleanest Village,"Living Root Bridge|Sky View Platform|Clean Village Tour",March to May
+Meghalaya,hidden_gem,Shnongpdeng,Adventure Sports Hub,"River Canoeing|Cliff Jumping|Camping",October to March
+Meghalaya,hidden_gem,Laitlum Canyons,Grand Canyon of Meghalaya,"Canyon Views|Hiking Trails|Local Villages",October to April
+Gujarat,popular,Rann of Kutch,World's largest salt desert,"White Desert|Tent City|Cultural Performances",November to February
+Gujarat,popular,Gir National Park,Only home of Asiatic Lions,"Lion Safari|Bird Watching|Tribal Villages",December to March
+Gujarat,hidden_gem,Dholavira,Ancient Indus Valley Civilization site,"Archaeological Ruins|Museum|Ancient Water Conservation",October to March
+Gujarat,hidden_gem,Champaner-Pavagadh,UNESCO World Heritage Site,"Jami Masjid|Archaeological Park|Ancient Fortifications",November to February 

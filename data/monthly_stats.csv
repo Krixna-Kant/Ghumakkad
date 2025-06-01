@@ -1,0 +1,97 @@
+state_name,month,visitors,occupancy_rate
+Himachal Pradesh,Jan,180000,75
+Himachal Pradesh,Feb,200000,80
+Himachal Pradesh,Mar,250000,85
+Himachal Pradesh,Apr,280000,90
+Himachal Pradesh,May,300000,95
+Himachal Pradesh,Jun,280000,90
+Himachal Pradesh,Jul,200000,75
+Himachal Pradesh,Aug,180000,70
+Himachal Pradesh,Sep,220000,80
+Himachal Pradesh,Oct,250000,85
+Himachal Pradesh,Nov,220000,80
+Himachal Pradesh,Dec,190000,75
+Rajasthan,Jan,280000,90
+Rajasthan,Feb,260000,85
+Rajasthan,Mar,230000,80
+Rajasthan,Apr,180000,70
+Rajasthan,May,150000,60
+Rajasthan,Jun,130000,55
+Rajasthan,Jul,150000,60
+Rajasthan,Aug,180000,70
+Rajasthan,Sep,220000,80
+Rajasthan,Oct,270000,90
+Rajasthan,Nov,290000,95
+Rajasthan,Dec,280000,90
+Kerala,Jan,290000,90
+Kerala,Feb,270000,88
+Kerala,Mar,240000,78
+Kerala,Apr,190000,68
+Kerala,May,160000,58
+Kerala,Jun,150000,52
+Kerala,Jul,170000,62
+Kerala,Aug,200000,72
+Kerala,Sep,230000,82
+Kerala,Oct,280000,92
+Kerala,Nov,300000,95
+Kerala,Dec,290000,90
+Ladakh,Jan,5000,20
+Ladakh,Feb,3000,15
+Ladakh,Mar,2000,10
+Ladakh,Apr,15000,40
+Ladakh,May,80000,75
+Ladakh,Jun,150000,90
+Ladakh,Jul,180000,95
+Ladakh,Aug,200000,98
+Ladakh,Sep,150000,90
+Ladakh,Oct,80000,70
+Ladakh,Nov,10000,25
+Ladakh,Dec,5000,20
+Andaman and Nicobar,Jan,80000,95
+Andaman and Nicobar,Feb,75000,92
+Andaman and Nicobar,Mar,70000,88
+Andaman and Nicobar,Apr,60000,80
+Andaman and Nicobar,May,40000,65
+Andaman and Nicobar,Jun,30000,50
+Andaman and Nicobar,Jul,25000,45
+Andaman and Nicobar,Aug,30000,48
+Andaman and Nicobar,Sep,45000,70
+Andaman and Nicobar,Oct,70000,85
+Andaman and Nicobar,Nov,85000,98
+Andaman and Nicobar,Dec,90000,98
+Sikkim,Jan,120000,75
+Sikkim,Feb,100000,70
+Sikkim,Mar,180000,85
+Sikkim,Apr,200000,90
+Sikkim,May,180000,85
+Sikkim,Jun,80000,50
+Sikkim,Jul,60000,45
+Sikkim,Aug,70000,48
+Sikkim,Sep,150000,80
+Sikkim,Oct,200000,92
+Sikkim,Nov,180000,88
+Sikkim,Dec,130000,78
+Goa,Jan,850000,95
+Goa,Feb,800000,92
+Goa,Mar,600000,85
+Goa,Apr,400000,70
+Goa,May,300000,60
+Goa,Jun,250000,50
+Goa,Jul,300000,55
+Goa,Aug,350000,60
+Goa,Sep,450000,75
+Goa,Oct,600000,85
+Goa,Nov,750000,90
+Goa,Dec,900000,98
+Gujarat,Jan,2200000,95
+Gujarat,Feb,2000000,90
+Gujarat,Mar,1500000,85
+Gujarat,Apr,1000000,70
+Gujarat,May,800000,60
+Gujarat,Jun,600000,50
+Gujarat,Jul,700000,55
+Gujarat,Aug,800000,60
+Gujarat,Sep,1200000,75
+Gujarat,Oct,1800000,85
+Gujarat,Nov,2100000,90
+Gujarat,Dec,2300000,98 

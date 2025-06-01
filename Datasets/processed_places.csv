@@ -1,0 +1,146 @@
+state_name,place_name,place_id,state_id,domestic_visitors_2020,foreign_visitors_2020,domestic_growth
+Agra,Taj Mahal,PL0001,AG,1259892,9034,-71.56
+Agra,Agra Fort,PL0002,AG,371242,2810,-77.18
+Agra,Fatehpur Sikri,PL0003,AG,107835,574,-76.27
+Agra,Akbar Tomb Sikandra,PL0004,AG,99509,321,-56.6
+Agra,Mariam tomb Sikandra,PL0005,AG,9765,31,-56.63
+Agra,Itimad-ud-Daulah-Tomb,PL0006,AG,41016,410,-69.11
+Agra,Ram Bagh,PL0007,AG,18599,54,-77.87
+Agra,Mehtab Bagh,PL0008,AG,62652,544,-64.92
+Agra,Mausoleum,PL0009,AG,91185,321,-80.78
+Lucknow,Site of Sahet mahet,PL0011,LU,27201,35,-63.54
+Lucknow,Residency Building,PL0012,LU,57194,37,-50.84
+Lucknow,Piprahwa & Ganwaria,PL0013,LU,12062,3,-68.54
+Jhansi,"Gupta Temple & Varah Temple, Deogarh",PL0015,JH,931,0,-30.93
+Jhansi,Kalinjar Fort,PL0016,JH,80291,27,-1.49
+Jhansi,Rani Lakshmi Bai Mahal,PL0017,JH,5712,5,-64.2
+Jhansi,Rani Jhansi Fort,PL0018,JH,174622,107,-51.67
+Sarnath,Lord Cornwallis Tomb,PL0020,SA,5289,9,-71.13
+Sarnath,"Old Fort (Shahi Fort), Jaunpur",PL0021,SA,67163,127,-66.24
+Sarnath,Observatory of Man Singh,PL0022,SA,21379,11,-74.26
+Sarnath,Excavated Remains at sarnath,PL0023,SA,170590,384,-64.85
+Sarnath,Tomb of Lal Khan,PL0024,SA,1972,2,-71.08
+Sarnath,Ancient Buddhist Site known as Chaukhandi stupa,PL0025,SA,14956,46,-72.88
+Thrissur,"Bekal Fort, Pallikkare, Distt. Kasargod",PL0027,TH,115333,242,-65.56
+Thrissur,mattancherry Palace Museum Kochi,PL0028,TH,23026,177,-92.34
+Thrissur,"Fort, Palakkad, Palakkad",PL0029,TH,43927,26,-74.84
+Thrissur,"Fort St. Angelo, Kannur",PL0030,TH,65683,115,-71.99
+Chennai,Group of Monuments Mamallapuram,PL0032,CH,808145,29145,-35.88
+Chennai,"Gingee Fort , Gingee",PL0033,CH,125109,2272,16.84
+Chennai,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",PL0034,CH,58206,868,33.09
+Tiruchirappalli,"Fort on Rock, Dindigual",PL0036,TI,25603,99,3.84
+Tiruchirappalli,"Moovarkoil, Kodumbalur",PL0037,TI,1476,9,-92.28
+Tiruchirappalli,"Rock-cut Jain Temple, Sittannavasasl",PL0038,TI,41791,235,31.1
+Tiruchirappalli,Tirumalai Nayak's Palace Srivilliputhur,PL0039,TI,217,3,-99.28
+Tiruchirappalli,"Natural Caven with inscription eladipattam, Sittannavasal",PL0040,TI,2490,19,-89.59
+Tiruchirappalli,"Fort Museum, Thirumayam",PL0041,TI,41487,1555,-85.93
+Tiruchirappalli,Fort Vattakottai,PL0042,TI,5058,36,-96.83
+Bhopal,Buddhist Caves,PL0044,BH,23692,0,18.94
+Bhopal,"The palace situated in the fort, Burhanpur",PL0045,BH,13926,27,-70.56
+Bhopal,Hoshang Shah's Tomb,PL0046,BH,57769,39,-55.59
+Bhopal,"Group of monument, Royal Palace Mandu",PL0047,BH,181868,128,-55.46
+Bhopal,Roopmati's Pavilion,PL0048,BH,148680,91,-62.12
+Bhopal,"Buddhist Monuments, Sanchi",PL0049,BH,58979,41,-76.47
+Bhopal,Gwalior Fort,PL0050,BH,101464,130,-60.32
+Bhopal,"Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",PL0051,BH,12303,13,-62.24
+Bhopal,"Badal Mahal Gatwway, Chanderi",PL0052,BH,9689,5,-29.32
+Bhopal,Caves 1 t0 20 Udaygiri Vidisha,PL0053,BH,11601,10,-78.33
+Bhopal,Bir Singh Palace Datia,PL0054,BH,14045,12,-39.93
+Jabalpur,"Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",PL0056,JA,16546,8,-29.15
+Jabalpur,"Western Group of Temples, Khajuraho",PL0057,JA,128515,275,-47.54
+Jabalpur,"Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",PL0058,JA,23598,13,-58.89
+Dharwad,Durga temple complex Aihole,PL0060,DH,75089,99,-59.8
+Dharwad,"Jaina & Vaishnava Cave, Badami",PL0061,DH,172259,167,-53.7
+Dharwad,Group of Monuments (WH) Pattadakal,PL0062,DH,123110,61,-53.04
+Dharwad,"Gol Gumbaz, Vijayapura",PL0063,DH,283256,75,-65.2
+Dharwad,"Ibrahim Rauza, Bijapur",PL0064,DH,57759,12,-62.87
+Dharwad,"Temples & Sculpture Shed, lakkumdi",PL0065,DH,5652,0,-56.59
+Hampi,"Group of Monuments, Hampi",PL0067,HA,273456,627,-53.43
+Hampi,Bellary Fort,PL0068,HA,11069,9,-61.46
+Banglore,Dariya Daulath Bagh,PL0070,BA,89006,306,-86.23
+Banglore,Keshava Temple,PL0071,BA,64222,196,-64.01
+Banglore,Palace of Tipu Sultan,PL0072,BA,38706,270,-84.94
+Banglore,Fortress and Temple Chitrudurga Fort,PL0073,BA,144862,297,-57.18
+Raiganj,Cooch Bihar Palace,PL0075,RA,126135,161,-72.91
+Raiganj,Hazarduari Palace,PL0076,RA,361546,649,-46.37
+Kolkata,Bishnupur Temples,PL0078,KO,117107,237,-24.44
+Kolkata,Metcelf-Hall,PL0079,KO,7818,24,1192.23
+Rajkot,"Asokan Rock Edict, Jungadh",PL0081,RA,10498,16,69.98
+Rajkot,"Buddhish Caves, Junagadh",PL0082,RA,58,0,-99.69
+Rajkot,"Baba Pyara Caves,Junagadh & Khapra Khodiya Caves, Junagadh",PL0083,RA,1691,1,-71.13
+Vadodara,"Champaner Monuments, Pavagadh",PL0085,VA,39014,81,-34.32
+Vadodara,"Sun temple, Modhera",PL0086,VA,85407,103,-58.94
+Vadodara,"Rani Ki-Vav, Patan",PL0087,VA,96900,143,-71.26
+Vadodara,"Rudabai Step Well, Adalaj",PL0088,VA,86840,204,-77.62
+Bhubaneswar,"Sun Temple, Konark",PL0090,BH,530886,142,-73.42
+Bhubaneswar,Ancient Remains on both Udaigiri & Khandagiri Hills,PL0091,BH,73727,57,-76.3
+Bhubaneswar,Rajarani Temple,PL0092,BH,8237,3,-51.31
+Bhubaneswar,The Hill Containing Many Valuable Sculptures and Images Ratnagiri,PL0093,BH,20616,20,-40.35
+Bhubaneswar,Ruins of Buddhist Temples and Images lalitgiri,PL0094,BH,18359,8,-58.81
+Aurangabad,Ajanta Caves,PL0096,AU,47554,82,-82.6
+Aurangabad,Ellora Caves,PL0097,AU,163313,159,-87.03
+Aurangabad,Tomb of Rabia Durani (Bibi ka Maqbara),PL0098,AU,203791,100,-81.67
+Aurangabad,Daulatabad Fort,PL0099,AU,105434,49,-79.56
+Aurangabad,Pandulena Caves,PL0100,AU,29,0,-99.99
+Aurangabad,Aurangabad Caves,PL0101,AU,34976,19,-80.79
+Mumbai,Elephanta Caves,PL0103,MU,82136,281,-88.04
+Mumbai,Buddhist Caves Kanheri,PL0104,MU,213,0,-99.95
+Mumbai,Shaniwarwada,PL0105,MU,160547,87,-85.77
+Mumbai,Aga  Khan Palace Building,PL0106,MU,18963,55,-91.38
+Mumbai,"Cave, Temple and Inscriptions, Junaar, Lenyadri",PL0107,MU,73899,6,-79.18
+Mumbai,"Caves, Temples and inscriptions Karla",PL0108,MU,51045,21,-76.77
+Mumbai,"Cave Temple & Inscriptions, Bhaja",PL0109,MU,10976,24,-86.33
+Mumbai,Raigad Fort,PL0110,MU,76438,0,-64.99
+Mumbai,"Kolaba Fort, Alibag",PL0111,MU,50421,12,-55.14
+Mumbai,"Old Fort, Sholapur",PL0112,MU,11293,1,-81.86
+Mumbai,"Janjira Fort, Murd",PL0113,MU,149221,7,-41.09
+Mumbai,Kondiote Caves,PL0114,MU,167,0,-99.6
+Mumbai,Lohgad Fort,PL0115,MU,31042,21,-80.8
+Nagpur,Gawilgarh Fort,PL0117,NA,5,0,-99.99
+Nagpur,"Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions ect Mansur",PL0118,NA,8,0,-99.5
+Chandigarh,Suraj Kund,PL0120,CH,11132,14,-87.83
+Chandigarh,Sheikh Chilli's Tomb,PL0121,CH,30292,75,-23.82
+Delhi,Khan-I-Khana,PL0123,DE,3002,10,68.46
+Delhi,Sultanghari Tomb,PL0124,DE,22969,233,4233.77
+Delhi,Tughluqabad,PL0125,DE,12856,109,-83.11
+Delhi,Red Fort,PL0126,DE,187380,1438,-91.48
+Delhi,Humayun Tomb,PL0127,DE,243836,2381,-62.96
+Delhi,Qutub Minar,PL0128,DE,476063,2849,-76.76
+Delhi,Hauzkhas,PL0129,DE,39837,148,-72.63
+Delhi,Jantar Mantar,PL0130,DE,76108,230,-62.54
+Delhi,Safdarjung Tomb,PL0131,DE,56776,392,-22.16
+Delhi,Kotla Feroz Shah,PL0132,DE,27763,106,-68.94
+Delhi,Purana Qila,PL0133,DE,200846,936,-69.67
+Guwahati,Ahom Raja's Palace,PL0135,GU,25443,69,-43.08
+Guwahati,"Kareghar of Ahom Kings, Sibasagar",PL0136,GU,54595,93,-54.47
+Guwahati,"Ranghar Pavillion, Jaisagar",PL0137,GU,33939,75,-50.86
+Guwahati,Bishnudol,PL0138,GU,2921,0,-86.13
+Guwahati,"Group of four MaidansCharaideo, Sibasagar",PL0139,GU,19866,72,-14.04
+Goa,Upper Fort Aguada,PL0141,GO,379726,340,-54.68
+Hyderabad,Charminar,PL0143,HY,297548,182,-74.17
+Hyderabad,Golconda,PL0144,HY,527096,912,-67.67
+Hyderabad,Warangal,PL0145,HY,64339,54,-30.59
+Jaipur,Ancient Site Bhangarh,PL0147,JA,53946,85,-71.73
+Jaipur,Baori at Abhaneri,PL0148,JA,44284,115,-33.73
+Jaipur,Deeg Bhawan,PL0149,JA,12772,30,-55.2
+Jodhpur,Chittaurgarh Fort,PL0151,JO,223328,206,-60.48
+Jodhpur,Kumbhalgarh Fort,PL0152,JO,203050,208,-59.0
+Jodhpur,Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund,PL0153,JO,131764,141,-45.39
+Leh,Ancient Palace Leh,PL0155,LE,2047,6,-96.39
+Patna,"Remains of Patliputra Site of Mauryan Palace, Kumrahar",PL0157,PA,25834,25876,-76.51
+Patna,"Ancient site of Vaishali, Kolhua",PL0158,PA,49207,49213,-45.1
+Patna,Excavated Remains at Nalanda,PL0159,PA,105748,105816,-75.83
+Patna,Ancient Site of Vikramshila Antichak,PL0160,PA,27583,27583,-57.94
+Patna,Sher Shah's Tomb,PL0161,PA,95051,95133,-54.34
+Raipur,Temple of Laxman and Old sites including sculptures sirpur,PL0163,RA,44742,44746,-29.83
+Shimla,"Ruined Fort, kangra",PL0165,SH,100454,252,10.02
+Shimla,Rock-cut Temples and Sculptures,PL0166,SH,53123,209,-27.66
+Srinagar,"Palace Complex at Ramnagar, Distt. Udhampur",PL0168,SR,2129,0,-67.79
+Srinagar,"Avantiswamin Temple, Avantipur, District Pulwama",PL0169,SR,5706,8,-42.59
+Srinagar,"Group of Temples at kiramchi, District Udhampur",PL0170,SR,5816,0,1.48
+Amaravati,Amaravati mahastupa,PL0172,AM,1864,0,-76.81
+Amaravati,Undavalli caves,PL0173,AM,52924,89,-51.58
+Amaravati,Nagarjuna Kunda,PL0174,AM,0,0,
+Amaravati,Chandragiri Monument,PL0175,AM,51113,38,-50.61
+Amaravati,"Buddhist Remains on hill top at Guntupalli, W.G.District",PL0176,AM,10219,10,-54.28
+Grand Total,Grand Total,PL0178,GR,13153076,415859,-69.84
