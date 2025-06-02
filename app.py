@@ -39,7 +39,7 @@ def arts_revival_section():
                 try:
                     response = requests.get(row['art_image'])
                     img = Image.open(BytesIO(response.content))
-                    st.image(img, caption=row['art_name'], use_column_width=True)
+                    st.image(img, caption=row['art_name'], use_container_width=True)
                 except:
                     st.warning(f"Unable to load image for {row['art_name']}")
                 
@@ -449,7 +449,7 @@ elif page == "Destination Insights":
 
         # Display state banner image
         if 'banner_image' in state_data:
-            st.image(state_data['banner_image'], use_column_width=True)
+            st.image(state_data['banner_image'], use_container_width=True)
 
         st.markdown(f"""
             <div style='background-color: {CARD_BACKGROUND}; 
