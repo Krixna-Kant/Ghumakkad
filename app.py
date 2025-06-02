@@ -409,7 +409,7 @@ elif page == "Plan Your Yatra":
             
             # Clear input and rerun to update chat
             st.session_state.user_input = ""
-            st.experimental_rerun()
+            st.rerun()
 
 elif page == "Destination Insights":
     st.markdown(f"""
