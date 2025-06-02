@@ -2,6 +2,12 @@
 
 Ghumakkad is a comprehensive web application built with Streamlit that showcases India's rich cultural heritage, tourism destinations, and endangered art forms. The platform provides interactive features for exploring different states, planning trips, and supporting traditional artisans.
 
+## 🌐 Live Demo
+
+Experience Ghumakkad live: [https://ghumakkad-india.streamlit.app](https://ghumakkad-india.streamlit.app)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ghumakkad-india.streamlit.app)
+
 ## 🌟 Features
 
 1. **Cultural Map**
